@@ -4,7 +4,7 @@
 <details>
 <summary>SHOW CODE</summary>
 
-```ruby
+```
 def simple_quicksort(array)
   partition(array)
 end
