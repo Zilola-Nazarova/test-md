@@ -42,5 +42,6 @@ def join_part(part, index, array)
   [array, index]
 end
 ```
+
 </details>
 
